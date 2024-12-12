@@ -1,0 +1,26 @@
+.heading{
+    color:red;
+    font-size: 100px;
+    font-weight:bold;
+}
+.btn{
+    background-color: black;
+    color:white;
+    padding: 20px;
+    border:none;
+    border-radius: 10px;
+    height: 100%;
+    margin: 10px;
+    width: 30%;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height:50vh;
+    
+}
